@@ -2,7 +2,7 @@
 
 ## Requests
 
-Send an HTTP GET request to <https://w-rpg.github.io/api/misc/quotes.json> to get a JSON response.
+Send an HTTP GET request to <https://w-rpg.github.io/api/quotes.json> to get a JSON response.
 
 ## Response
 
