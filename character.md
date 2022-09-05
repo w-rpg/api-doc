@@ -6,7 +6,7 @@ Send an HTTP GET request to <https://w-rpg.github.io/api/character.json> to get 
 
 ## Responses
 
-The JSON response of the character API is a dictionary of dictionaries that contain details about a character.
+The JSON response of the character API is a dictionary of dictionaries that contain details about a character. Any of the fields may return as null.
 
 |Field|Description|
 |-----|-----------|
