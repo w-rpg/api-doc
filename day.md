@@ -8,11 +8,11 @@ Send an HTTP GET request to <https://w-rpg.github.io/api/day.json> to get a JSON
 
 The JSON response references the current day in the WRPG.
 
-|Name|Value|
+|Field|Description|
 |----|----|
-|month|integer|
-|day|integer|
-|year|integer|
+|month|Current Month|
+|day|Current Day|
+|year|Current Year|
 
 ### Example
 
